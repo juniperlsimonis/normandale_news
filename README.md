@@ -1,3 +1,7 @@
+# Normandale Mass Shooting News Coverage
+
+CW: Mass shooting, extremist violence, right-wing ideaology
+
 ## Tracking the spread of misinformation
 
 We are documenting the spread of mis/dis-information regarding the mass shooting at Normandale Park in Portland, OR on 2022-02-19.
