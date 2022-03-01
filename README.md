@@ -1,6 +1,6 @@
 # Normandale Mass Shooting News Coverage
 
-CW: Mass shooting, extremist violence, right-wing ideaology
+CW: Mass shooting, extremist violence, right-wing ideology
 
 ## Tracking the spread of misinformation
 
