@@ -1,4 +1,4 @@
-# Normandale Mass Shooting News Coverage
+# [Normandale Mass Shooting](https://en.wikipedia.org/wiki/Normandale_Park_shooting) News Coverage
 
 CW: Mass shooting, extremist violence, right-wing ideology
 
